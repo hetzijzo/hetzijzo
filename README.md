@@ -18,6 +18,11 @@ Why your shared libraries are ill - and how to cure them
 S Stockholm,
 [📽️](https://youtu.be/EiYc-Y5fe9E) 50 minutes
 
+The IKEA effect; writing my own code is fulfilling, but not always smart
+[Joy Of Coding 2023](https://joyofcoding.org/speakers/lightning-talks.html)
+NL Rotterdam,
+5 minutes
+
 #### 2022
 
 [Choose your own adventure with Spring Security](https://github.com/jdriven/spring-security-workshop)
